@@ -1,7 +1,7 @@
 # inventory-management-system
  admin login:
  username= admin
- passoword= admin
+ password= admin
 
  employee login
  username=employee
